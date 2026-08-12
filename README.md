@@ -1,5 +1,5 @@
 
-a version of alacritty but with the default colours and a slight bit of transparency.
+a version of alacritty but with bright colours and a slight bit of transparency.
 
 
 
