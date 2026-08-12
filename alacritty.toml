@@ -1,5 +1,5 @@
 [window]
-opacity = 0.85
+opacity = 0.9
 decorations = "Full"
 decorations_theme_variant = "Dark"
 
@@ -10,17 +10,6 @@ y = 12
 [font]
 size = 14.0
 
-[font.normal]
-family = "JetBrainsMono Nerd Font"
-
-[font.bold]
-family = "JetBrainsMono Nerd Font"
-
-[font.italic]
-family = "JetBrainsMono Nerd Font"
-
-[font.bold_italic]
-family = "JetBrainsMono Nerd Font"
 
 [colors.primary]
 background = "#000000"
@@ -35,24 +24,24 @@ text = "CellForeground"
 background = "#44475a"
 
 [colors.normal]
-black   = "#1e1e2e"
-red     = "#f38ba8"
-green   = "#a6e3a1"
-yellow  = "#f9e2af"
-blue    = "#89b4fa"
-magenta = "#f5c2e7"
-cyan    = "#94e2d5"
-white   = "#bac2de"
+black   = "#000000"
+red     = "#f93109"
+green   = "#19f909"
+yellow  = "#f7ef04"
+blue    = "#0602f9"
+magenta = "#e807f4"
+cyan    = "#07ecf4"
+white   = "#f4f4f4"
 
 [colors.bright]
-black   = "#45475a"
-red     = "#f38ba8"
-green   = "#a6e3a1"
-yellow  = "#f9e2af"
-blue    = "#89b4fa"
-magenta = "#f5c2e7"
-cyan    = "#94e2d5"
-white   = "#cdd6f4"
+black   = "#000000"
+red     = "#f93109"
+green   = "#19f909"
+yellow  = "#f7ef04"
+blue    = "#0602f9"
+magenta = "#e807f4"
+cyan    = "#07ecf4"
+white   = "#f4f4f4"
 
 [scrolling]
 history = 10000
@@ -65,6 +54,4 @@ bindings = [
   { key = "N", mods = "Control|Shift", action = "SpawnNewInstance" }
 ]
 
-[env]
-TERM = "xterm-256color"
 
